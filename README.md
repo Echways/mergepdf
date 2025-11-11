@@ -14,8 +14,8 @@
 1. Клонировать репозиторий:
 
 ```bash
-git clone https://github.com/Echways/mergepdf.git
-cd mergepdf/src
+git clone https://github.com/Echways/pdfmerge.git
+cd pdfmerge/src
 ```
 
 2. Инициализировать модуль и подтянуть зависимости:
